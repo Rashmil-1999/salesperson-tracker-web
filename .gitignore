@@ -89,7 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-sales/s
+sales
 
 # Spyder project settings
 .spyderproject
